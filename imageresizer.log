@@ -1,0 +1,16 @@
+08/25 12:01:17:419 ImageResizer DEBUG
+					resize               51   start resize:ramen@2x.png
+08/25 12:01:19:700 ImageResizer DEBUG
+					resize               58   write to:ramen.png
+08/25 12:02:24:096 ImageResizer DEBUG
+					resize               51   start resize:ramen@2x.png
+08/25 12:03:11:804 ImageResizer DEBUG
+					resize               58   write to:ramen.png
+08/25 12:04:46:137 ImageResizer DEBUG
+					resize               51   start resize:ramen@2x.png
+08/25 12:04:46:904 ImageResizer DEBUG
+					resize               58   write to:/Users/kaiba/Documents/workspace2/ImageResizer/testramen.png
+08/25 12:06:18:913 ImageResizer DEBUG
+					resize               46   start resize:ramen@2x.png
+08/25 12:06:19:653 ImageResizer DEBUG
+					resize               53   write to:ramen.png

@@ -1,0 +1,40 @@
+{
+    "description": "Create iOS Splash images",
+    "splashTargetList": [
+        {
+            "dstPath": "./Default.png",
+            "w": 320,
+            "h": 480
+        },
+        {
+            "dstPath": "./Default@2x.png",
+            "w": 640,
+            "h": 960
+        },
+        {
+            "dstPath": "./Default-568h@2x.png",
+            "w": 640,
+            "h": 1136
+        },
+        {
+            "dstPath": "./Default-Portrait.png",
+            "w": 768,
+            "h": 1004
+        },
+        {
+            "dstPath": "./Default-Portrait@2x.png",
+            "w": 1536,
+            "h": 2008
+        },
+        {
+            "dstPath": "./Default-Landscape.png",
+            "w": 1024,
+            "h": 748
+        },
+        {
+            "dstPath": "./Default-Landscape@2x.png",
+            "w": 2048,
+            "h": 1496
+        }
+    ]
+}

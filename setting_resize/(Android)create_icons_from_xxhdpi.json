@@ -1,0 +1,16 @@
+{
+    "description": "iOS",
+    "targetRegexpStr": ".+.png$",
+    "filterRegexpStr": "",
+    "renamedBackReference": "",
+    "resizeTargetList": [
+        {
+            "dstDir": "../drawable-xhdpi",
+            "rate": 0.5
+        },
+        {
+            "dstDir": "../drawable-hdpi",
+            "rate": 0.2
+        }
+    ]
+}

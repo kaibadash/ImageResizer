@@ -1,0 +1,12 @@
+{
+    "description": "iOS",
+    "targetRegexpStr": "(^.+)@2x\\.png$",
+    "filterRegexpStr": "",
+    "renamedBackReference": "$1.png",
+    "resizeTargetList": [
+        {
+            "dstDir": ".",
+            "rate": 0.5
+        }
+    ]
+}
